@@ -3,5 +3,5 @@
 Usage:
 
 ```bash
-go run github.com/openhoangnc/go-run-pause
+go run github.com/openhoangnc/go-run-pause@latest
 ```
